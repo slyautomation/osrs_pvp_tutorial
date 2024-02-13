@@ -1,4 +1,4 @@
-# osrs_pvp_tutorial
+# Runelite Plugin Pvp Tutorial
 Guide on this osrs plugin here: https://www.slyautomation.com/blog/osrs-plugin-runelite-development-pvp-helper-part-1/
 
 PvP (Player versus Player) plugin using the RuneLite API. The development is presented in a tutorial format, and this summary covers the key points discussed in Part 1:
